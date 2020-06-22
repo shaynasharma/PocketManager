@@ -15,7 +15,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name=".ui.MainActivity"
             android:label="Money Report">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -24,9 +24,9 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".Transactions"
+            android:name=".ui.Transactions"
             android:label="Transactions" />
-        <activity android:name=".report" />
+        <activity android:name=".ui.Report" />
     </application>
 
 </manifest>
