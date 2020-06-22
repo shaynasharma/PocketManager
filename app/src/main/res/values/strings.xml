@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Money Report</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_permission_msg">Please enable SMS permission to find all the transactional SMS.</string>
+    <string name="initAmount">Rs 0.0</string>
+    <string name="dateFormat">dd/MM</string>
+
+    <string-array name="options">
+        <item>Daily</item>
+        <item>Weekly</item>
+        <item>Monthly</item>
+    </string-array>
+</resources>
